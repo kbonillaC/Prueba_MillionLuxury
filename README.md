@@ -3,8 +3,9 @@
 
 Proyecto para la prueba tecnica de Million
 
-
-
+### Caracteristicas:
+- Seguridad de token JWT,
+- CQRS pattern
 
 ## Pre-Requisites
 
@@ -25,7 +26,7 @@ Clonar el proyecto
 
 Iniciar la Api
 ```bash
- cd Prueba_MillionLuxury
+ cd Luxury.Api
  dotnet run
 ```
 > [!IMPORTANT]
@@ -40,7 +41,12 @@ En el siguiente Link encontrara la respectiva documentacion de la API con sus re
 
 ## Ejecucion de pruebas unitarias
 
-Para ejecutar las pruebas unitarias nos ubicamos sobre la carpeta princial del proyecto y ejecutamos el siguiente comando
+Para ejecutar las pruebas unitarias nos devolvemos a la carpeta princial del proyecto 
+
+```bash
+ cd ..
+```
+y ejecutamos el siguiente comando
 
 ```bash
   dotnet test
