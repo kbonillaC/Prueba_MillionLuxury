@@ -28,11 +28,13 @@ Iniciar la Api
  cd Prueba_MillionLuxury
  dotnet run
 ```
-
+> [!IMPORTANT]
+Descargar script de la creacion de las tablas usadas en SQL: 👉
+[ScripSQL](https://we.tl/t-O8X6Ca1Rm1)
 
 
 ## Documentación
-En el siguiente Link encontrara la respectiva documentacion de la API con sus respectivos ejemplos y usos. 
+En el siguiente Link encontrara la respectiva documentacion de la API con sus respectivos ejemplos y usos. 👉
 [Documentación](https://documenter.getpostman.com/view/18526656/2sAXqs62Ev#intro)
 
 
