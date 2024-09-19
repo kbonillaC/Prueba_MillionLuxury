@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Prueba_MillionLuxury\Luxury.Api.csproj" />
+    <ProjectReference Include="..\..\Luxury.Api\Luxury.Api.csproj" />
   </ItemGroup>
 
   <ItemGroup>
